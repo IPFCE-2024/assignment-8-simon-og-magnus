@@ -3,5 +3,7 @@
 #include <stdlib.h>
 
 node* isort(node *list) {
-
+    return list;
 }
+
+
